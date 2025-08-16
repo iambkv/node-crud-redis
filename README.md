@@ -30,7 +30,7 @@ This project is a simple **CRUD API** built using **Node.js, Express, and MongoD
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com:iambkv/iambkv/node-crud-redis.git
+   git clone https://github.com/iambkv/node-crud-redis.git
    cd node-crud-redis
    npm install
    npm start
