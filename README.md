@@ -34,6 +34,3 @@ This project is a simple **CRUD API** built using **Node.js, Express, and MongoD
    cd node-crud-redis
    npm install
    npm start
-
-
-   
